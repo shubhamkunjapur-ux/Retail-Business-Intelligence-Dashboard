@@ -32,7 +32,7 @@ An end-to-end retail analytics project built on the **Big Mart** dataset: data u
 
 | Resource | Link |
 |---|---|
-| 📊 **Dashboard** | [View Dashboard](https://drive.google.com/file/d/1areCF4l99GVaJqYms1HQYffKhsQUgH0w/view?usp=sharing) |
+| 📊 **Dashboard** | [View Dashboard](https://big-mart-retail-analyticsgit-zcaqcagnz6sbduufkwr2wf.streamlit.app/) |
 | 🎥 **Dashboard Demo Video** | [Watch Demo](https://drive.google.com/file/d/1areCF4l99GVaJqYms1HQYffKhsQUgH0w/view?usp=sharing) |
 | 📓 **Analysis Notebook** | [`BIG_MARKET_RETAIL_ANALYSIS.ipynb`](BIG_MARKET_RETAIL_ANALYSIS.ipynb) |
 
